@@ -1,0 +1,29 @@
+</rdf:RDF>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n154420">
+        <rdfs:label>Century Tower Carillon</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n36478">
+        <rdfs:label>Williamson Hall</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n56393">
+        <rdfs:label>Constans Theatre</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n96138">
+        <rdfs:label>Cancer and Genetics Research Center</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/PhillipsCenterforthePerformingArts">
+        <rdfs:label>Phillips Center for the Performing Arts</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n53415">
+        <rdfs:label>Leigh Hall</rdfs:label>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n33166">
+        <rdfs:label>Baughman Center</rdfs:label>
+    </rdf:Description>
+    </rdf:RDF>
