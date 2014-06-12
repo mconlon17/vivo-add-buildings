@@ -28,13 +28,13 @@ each building in VIVO now has its full official name.
 
 The script is designed to be safe to re-rerun.  It identifies
 three cases:
-    1. The building is in VIVO and not in the building file. These
-	are counted and reported.  No action is taken.
-	1. The building is in VIVO and is in the building file.  The
-	building file is considered authoritative -- the name of the
-	building in the building file replaces the name in VIVO.
-	1.  The building is not in VIVO and is in the UF building
-	file.  These buildings are added to VIVO.
+1. The building is in VIVO and not in the building file. These
+are counted and reported.  No action is taken.
+1. The building is in VIVO and is in the building file.  The
+building file is considered authoritative -- the name of the
+building in the building file replaces the name in VIVO.
+1.  The building is not in VIVO and is in the UF building
+file.  These buildings are added to VIVO.
 	
 # To maintain the building data in VIVO
 
