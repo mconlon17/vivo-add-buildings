@@ -28,6 +28,7 @@ each building in VIVO now has its full official name.
 
 The script is designed to be safe to re-rerun.  It identifies
 three cases:
+
 1. The building is in VIVO and not in the building file. These
 are counted and reported.  No action is taken.
 1. The building is in VIVO and is in the building file.  The
